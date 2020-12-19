@@ -1,16 +1,16 @@
 ### Hi there 👋
+### Hi there, I'm [Sanchit!](https://www.linkedin.com/in/sanchit2843/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**sanchit2843/sanchit2843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit2843/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:sanchittanwar75@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+
+Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
+<br/>
+I'm broadly interested in computer vision, with the applications at the intersection of robotics. 
+
+![Sanchit's github stats](https://github-readme-stats.vercel.app/api?username=sanchit2843&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
