@@ -17,7 +17,7 @@ Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
 
 #### Updates:
 
-Dec, 2020: Reading papers on visual attention networks, will update a list of papers soon. 
+Dec, 2020: Reading papers on visual attention networks, will update a list of papers [here](https://github.com/sanchit2843/Study_resources#Computer-Vision). 
 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
