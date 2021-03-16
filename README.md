@@ -1,4 +1,4 @@
-### Hi there, I'm [Sanchit!](https://www.linkedin.com/in/sanchit2843/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm [Sanchit!](https://sanchit2843.github.io/sanchit/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit2843/)
@@ -15,6 +15,7 @@ Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
 - I’m looking for help with grad school applications and support in profile development for same.
 
 #### Updates:
+
 Jan, 2020: Will be joining CVIT, IIIT Hyd as research assistant from March, 2021. <br>
 Dec, 2020: Reading papers on visual attention networks, will update a list of papers [here](https://github.com/sanchit2843/Study_resources#Computer-Vision). 
 
