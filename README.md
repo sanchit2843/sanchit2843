@@ -16,9 +16,7 @@ Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
 
 #### Updates:
 
-Jan, 2020: Will be joining CVIT, IIIT Hyd as research assistant from March, 2021. <br>
-Dec, 2020: Reading papers on visual attention networks, will update a list of papers [here](https://github.com/sanchit2843/Study_resources#Computer-Vision). 
-
+Nov 2021: Planning to start a live computer vision course. 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
 ![Sanchit's github stats](https://github-readme-stats.vercel.app/api?username=sanchit2843&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
