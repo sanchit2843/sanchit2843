@@ -16,7 +16,7 @@ Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
 
 #### Updates:
 
-Jan 2022: Computer vision course: ![bit.ly/cv_course](bit.ly/cv_course) 
+Jan 2022: Computer vision course: [bit.ly/cv_course](bit.ly/cv_course) 
 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
