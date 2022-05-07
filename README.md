@@ -8,7 +8,7 @@
 <br/>
 
 
-Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
+Hi, I'm Sanchit Tanwar, 
 <br/>
 - I'm broadly interested in computer vision, with the applications at the intersection of robotics. 
 - I’m looking to collaborate on research projects.
