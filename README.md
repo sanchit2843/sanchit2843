@@ -12,11 +12,6 @@ Hi, I'm Sanchit Tanwar, working as computer vision engineer at attentive.ai.
 <br/>
 - I'm broadly interested in computer vision, with the applications at the intersection of robotics. 
 - I’m looking to collaborate on research projects.
-- I’m looking for help with grad school applications and support in profile development for same.
-
-#### Updates:
-
-Jan 2022: Computer vision course: [bit.ly/cv_course](bit.ly/cv_course) 
 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
