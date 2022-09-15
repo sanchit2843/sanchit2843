@@ -10,8 +10,9 @@
 
 Hi, I'm Sanchit Tanwar, 
 <br/>
-- I'm broadly interested in computer vision, with the applications at the intersection of robotics. 
-- I’m looking to collaborate on research projects.
+- I'm broadly interested in computer vision and deep learning, specifically in video analytics applications. 
+- I started my masters of engineering in Robotics at University of Maryland, College Park. 
+- I will update my website soon and will be inspired by https://github.com/sonia-raychaudhuri. 
 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
