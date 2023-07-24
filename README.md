@@ -10,7 +10,7 @@
 
 Hi, I'm Sanchit Tanwar, 
 <br/>
-- I'm broadly interested in computer vision and deep learning, specifically in video analytics applications. 
+- I'm broadly interested in computer vision, robotics and deep learning, specifically in video analytics applications. 
 - I started my masters of engineering in Robotics at University of Maryland, College Park. 
 - I will update my website soon and will be inspired by https://github.com/sonia-raychaudhuri. 
 
