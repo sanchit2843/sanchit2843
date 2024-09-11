@@ -11,7 +11,8 @@
 Hi, I'm Sanchit Tanwar, 
 <br/>
 - I'm broadly interested in computer vision, robotics and deep learning, specifically in video analytics applications. 
-- Looking for summer internship 
+- Looking for summer internships (2025).
+
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
 
 ![Sanchit's github stats](https://github-readme-stats.vercel.app/api?username=sanchit2843&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
