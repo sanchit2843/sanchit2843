@@ -10,7 +10,7 @@
 
 Hi, I'm Sanchit Tanwar, 
 <br/>
-- I'm broadly interested in computer vision, robotics and deep learning, specifically in video analytics applications. 
+- I'm broadly interested in computer vision, robotics and deep learning. 
 - Looking for summer internships (2025).
 
 ![Visitor Count](https://profile-counter.glitch.me/sanchit2843/count.svg)
